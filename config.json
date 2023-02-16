@@ -7,7 +7,7 @@
     "footer": "api.Bashir Ibrahim.my.id",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
-    "pathimg": "./Haruka.jpg",
+    "pathimg": "./alien.jpg",
     "BotKey": "Apikey lu",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": false, 
